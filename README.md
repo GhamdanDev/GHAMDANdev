@@ -1,6 +1,11 @@
 # 💫 About Me:
 🔸 I'm an experienced IT engineer <br>     with a passion for creating innovative software solutions <br>     and optimizing system performance.<br>🔸 My expertise lies in developing scalable<br>     and efficient applications using various programming languages <br>      and frameworks.<br>🔸 As an IT engineer, I have a strong foundation in network infrastructure, <br>      cybersecurity, <br>      and cloud computing, enabling me to<br>       design robust and secure systems.<br>🔸 I enjoy collaborating with cross-functional teams <br>      and leveraging my problem-solving skills to tackle <br>      complex technical challenges in the IT industry.
 
+<p > 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/GHAMDANdev/count.svg" />
+</p>
+
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19402827) 
