@@ -15,10 +15,6 @@ design robust and efficient systems.
 and leveraging my problem-solving skills to tackle
 complex technical challenges in the software industry.
 
-<p > 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/GHAMDANdev/count.svg" />
-</p>
 
 
 ## 🌐 Socials:
@@ -31,6 +27,10 @@ complex technical challenges in the software industry.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GHAMDANdev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GHAMDANdev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GHAMDANdev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
@@ -38,3 +38,13 @@ complex technical challenges in the software industry.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+
+
+
+
+
+<p3> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/GHAMDANdev/count.svg" />
+</p3>
