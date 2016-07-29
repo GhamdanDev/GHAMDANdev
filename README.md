@@ -1,5 +1,19 @@
 # 💫 About Me:
-🔸 I'm an experienced IT engineer <br>     with a passion for creating innovative software solutions <br>     and optimizing system performance.<br>🔸 My expertise lies in developing scalable<br>     and efficient applications using various programming languages <br>      and frameworks.<br>🔸 As an IT engineer, I have a strong foundation in network infrastructure, <br>      cybersecurity, <br>      and cloud computing, enabling me to<br>       design robust and secure systems.<br>🔸 I enjoy collaborating with cross-functional teams <br>      and leveraging my problem-solving skills to tackle <br>      complex technical challenges in the IT industry.
+🔸 I'm an experienced software engineer
+with a passion for creating innovative software solutions
+and optimizing system performance.
+
+🔸 My expertise lies in developing scalable
+and efficient applications using various programming languages
+and frameworks.
+
+🔸 As a software engineer, I have a strong foundation in software architecture,
+algorithm design, and data structures, enabling me to
+design robust and efficient systems.
+
+🔸 I enjoy collaborating with cross-functional teams
+and leveraging my problem-solving skills to tackle
+complex technical challenges in the software industry.
 
 <p > 
   Visitor count<br>
