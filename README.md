@@ -219,4 +219,4 @@
 ---
 
 <!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/GHAMDANdev.GHAMDANdev.svg)
+![views since 2016/06/14](https://visitor-badge-deno.deno.dev/GHAMDANdev.GHAMDANdev.svg)
